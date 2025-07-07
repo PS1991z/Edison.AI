@@ -1,0 +1,2 @@
+# Edison.AI
+Inventive App
